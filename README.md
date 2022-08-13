@@ -1,0 +1,2 @@
+# loading_sample_spinkit
+SpinKitを使用したローディングのサンプル
